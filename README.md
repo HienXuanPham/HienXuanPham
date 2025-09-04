@@ -4,6 +4,17 @@ Reach out to me at [LinkedIn](https://www.linkedin.com/in/xuan-hien-pham/)
 
 ---
 
+## 📌 Featured Projects
+
+- [**Disaster Bot**](https://github.com/HienXuanPham/disaster-bot):
+     - AI-powered disaster response app that finds nearby shelters and emergency info.  
+- [**Journal App**](https://github.com/HienXuanPham/journal-back-end):
+     - Full-stack journal platform with secure authentication and dynamic content.  
+- **Open-Source Contributions**:
+     - Improvements to [Hoppscotch](https://github.com/hoppscotch/hoppscotch/pull/4611) and [Couchbase Flask Starter](https://github.com/couchbase-starter-kit/couchbase-flask-starter/pull/3).
+ 
+---
+
 ## 🛠️ Skills
 
 ### **Languages**
@@ -37,18 +48,6 @@ Reach out to me at [LinkedIn](https://www.linkedin.com/in/xuan-hien-pham/)
 ### **Other**
 - Test Automation (RSpec, Capybara, React Testing Library)  
 - Device Support & Troubleshooting
-
-
----
-
-## 📌 Featured Projects
-
-- [**Disaster Bot**](https://github.com/HienXuanPham/disaster-bot):
-     - AI-powered disaster response app that finds nearby shelters and emergency info.  
-- [**Journal App**](https://github.com/HienXuanPham/journal-back-end):
-     - Full-stack journal platform with secure authentication and dynamic content.  
-- **Open-Source Contributions**:
-     - Improvements to [Hoppscotch](https://github.com/hoppscotch/hoppscotch/pull/4611) and [Couchbase Flask Starter](https://github.com/couchbase-starter-kit/couchbase-flask-starter/pull/3).
 
 ---
 
