@@ -1,4 +1,4 @@
-## Hi there, I'm Chelsea Pham 👋
+## Hi there, I'm Hien Pham 👋
 
 Reach out to me at [LinkedIn](https://www.linkedin.com/in/xuan-hien-pham/)
 
@@ -6,13 +6,15 @@ Reach out to me at [LinkedIn](https://www.linkedin.com/in/xuan-hien-pham/)
 
 ## 📌 Featured Projects
 
+- **Open-Source Contributions**:
+     - Hoppscotch: [#4611](https://github.com/hoppscotch/hoppscotch/pull/4611)
+     - Couchbase Flask Starter: [#3](https://github.com/couchbase-starter-kit/couchbase-flask-starter/pull/3)
+     - Open Energy Dashboard: [#1536](https://github.com/OpenEnergyDashboard/OED/pull/1536), [#1545](https://github.com/OpenEnergyDashboard/OED/pull/1545)
 - [**Disaster Bot**](https://github.com/HienXuanPham/disaster-bot):
      - AI-powered disaster response app that finds nearby shelters and emergency info.  
 - [**Journal App**](https://github.com/HienXuanPham/journal-back-end):
      - Full-stack journal platform with secure authentication and dynamic content.  
-- **Open-Source Contributions**:
-     - Improvements to [Hoppscotch](https://github.com/hoppscotch/hoppscotch/pull/4611) and [Couchbase Flask Starter](https://github.com/couchbase-starter-kit/couchbase-flask-starter/pull/3).
- 
+
 ---
 
 ## 🛠️ Skills
