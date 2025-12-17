@@ -1,4 +1,4 @@
-## Hi there, I'm Hien Pham 👋
+## Hi there, I'm Hien 👋
 
 Reach out to me at [LinkedIn](https://www.linkedin.com/in/xuan-hien-pham/)
 
@@ -14,6 +14,12 @@ Reach out to me at [LinkedIn](https://www.linkedin.com/in/xuan-hien-pham/)
      - AI-powered disaster response app that finds nearby shelters and emergency info.  
 - [**Journal App**](https://github.com/HienXuanPham/journal-back-end):
      - Full-stack journal platform with secure authentication and dynamic content.  
+
+---
+## 📃 Blog
+
+- [**Hoppscotch Versioned Entities**](https://xpham.vercel.app/blog/hoppscotch): Implementing versioned entities for settings and history modules in Hoppscotch
+- [**Troubleshooting CI/CD Test Failures in GitHub Actions YAML for Couchbase Flask Starter**](https://xpham.vercel.app/blog/couchbase-flask-starter): Setting up the environment variables and troubleshooting CI/CD
 
 ---
 
