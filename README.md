@@ -7,9 +7,10 @@ Reach out to me at [LinkedIn](https://www.linkedin.com/in/xuan-hien-pham/)
 ## 📌 Featured Projects
 
 - **Open-Source Contributions**:
+     - Open Energy Dashboard: [#1536](https://github.com/OpenEnergyDashboard/OED/pull/1536), [#1545](https://github.com/OpenEnergyDashboard/OED/pull/1545)
      - Hoppscotch: [#4611](https://github.com/hoppscotch/hoppscotch/pull/4611)
      - Couchbase Flask Starter: [#3](https://github.com/couchbase-starter-kit/couchbase-flask-starter/pull/3)
-     - Open Energy Dashboard: [#1536](https://github.com/OpenEnergyDashboard/OED/pull/1536), [#1545](https://github.com/OpenEnergyDashboard/OED/pull/1545)
+    
 - [**Disaster Bot**](https://github.com/HienXuanPham/disaster-bot):
      - AI-powered disaster response app that finds nearby shelters and emergency info.  
 - [**Journal App**](https://github.com/HienXuanPham/journal-back-end):
