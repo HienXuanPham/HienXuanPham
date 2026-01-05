@@ -5,6 +5,7 @@ Reach out to me at [LinkedIn](https://www.linkedin.com/in/xuan-hien-pham/) \
 
 
 ## Open-Source Contributions
+- Forge: [#1047](https://github.com/tyler-technologies-oss/forge/pull/1047)
 - Open Energy Dashboard: [#1536](https://github.com/OpenEnergyDashboard/OED/pull/1536), [#1545](https://github.com/OpenEnergyDashboard/OED/pull/1545)
 - Hoppscotch: [#4611](https://github.com/hoppscotch/hoppscotch/pull/4611)
 - Couchbase Flask Starter: [#3](https://github.com/couchbase-starter-kit/couchbase-flask-starter/pull/3)
