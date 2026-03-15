@@ -19,7 +19,7 @@ Reach out to me at [LinkedIn](https://www.linkedin.com/in/xuan-hien-pham/) and c
 
 ## Blog
 
-- [**Debugging a React Native Component Layering Bug**](https://xpham.vercel.app/blog/hoppscotch): UI layering bug
+- [**Debugging a React Native Component Layering Bug**](https://xpham.vercel.app/blog/react-native-component-layering-bug): UI layering bug
 - [**Hoppscotch Versioned Entities**](https://xpham.vercel.app/blog/hoppscotch): Implementing versioned entities for settings and history modules in Hoppscotch
 - [**Troubleshooting CI/CD Test Failures in GitHub Actions YAML for Couchbase Flask Starter**](https://xpham.vercel.app/blog/couchbase-flask-starter): Setting up the environment variables and troubleshooting CI/CD
 
