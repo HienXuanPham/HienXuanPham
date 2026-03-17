@@ -44,12 +44,7 @@ Docker, Git, Jenkins, GCP, Postman
 ˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆.˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆.
 　　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　        ˚　.˚　　   ˚　.　˚　　 　　  ✦　　.   　　˚　　 　　*　　 　
 
-<div align="center">
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd296dDV5MGh2OWh0NmNic2ZtaXBzY2lwMzMxdzhoenJnb3JjbG52ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UlexC9HXTiNz2/giphy.gif" 
-         width="50%" 
-         height="50%" 
-         style="border: 20px solid #000000; border-radius: 10px;" />
-</div>
 
+<img width="997" height="296" alt="Screenshot 2026-03-04 163827" src="https://github.com/user-attachments/assets/2ffd9989-6aaf-4a78-9d3c-950f1e4e97a1" />
 
 
