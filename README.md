@@ -15,8 +15,13 @@ Reach out to me at [LinkedIn](https://www.linkedin.com/in/xuan-hien-pham/) and c
 - [**Disaster Bot**](https://github.com/HienXuanPham/disaster-bot):
      - AI-powered disaster response app that finds nearby shelters and emergency info.  
 - [**Journal App**](https://github.com/HienXuanPham/journal-back-end):
-     - Full-stack journal platform with secure authentication and dynamic content.  
-
+     - Full-stack journal platform with secure authentication and dynamic content.
+- [**TCP Server**](https://github.com/HienXuanPham/tcp-server):
+     - A minimal TCP server implemented in Go (project-based learning).
+- [**GitHub Activity CLI**](https://github.com/HienXuanPham/github-activity-cli):
+     - A simple command-line tool that fetches and displays the recent activity of any GitHub user using the GitHub public API.
+- [**IoT and Machine Learning**](https://github.com/HienXuanPham/iot-ml):
+     - Use different machine learning algorithms to train the model to detect anomalies in the IoT devices.
 ## Blog
 
 - [**Debugging a React Native Component Layering Bug**](https://xpham.vercel.app/blog/react-native-component-layering-bug): UI layering bug
