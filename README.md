@@ -3,6 +3,7 @@
 Reach out to me at [LinkedIn](https://www.linkedin.com/in/xuan-hien-pham/) and check out [my page](https://xpham.vercel.app/) \
 ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧
 
+I am currently studying Cloud Computing to get the AWS Certified Cloud Practitioner certification ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆
 
 ## Open-Source Contributions
 - Forge: [#1047](https://github.com/tyler-technologies-oss/forge/pull/1047)
@@ -46,8 +47,8 @@ Docker, Git, Jenkins, GCP, Postman
 - Test Automation (RSpec, Capybara, React Testing Library)  
 - Device Support & Troubleshooting
 
-˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆.˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆.
-　　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　        ˚　.˚　　   ˚　.　˚　　 　　  ✦　　.   　　˚　　 　　*　　 　
+˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆.˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★
+　　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　        ˚　.˚　　   ˚　.　˚　　 　　  ✦　　.   　　˚　   　.˚　 　　*　　 　⋆.
 
 
 <img width="997" height="296" alt="Screenshot 2026-03-04 163827" src="https://github.com/user-attachments/assets/2ffd9989-6aaf-4a78-9d3c-950f1e4e97a1" />
