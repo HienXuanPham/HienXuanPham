@@ -26,8 +26,9 @@ I am currently studying Cloud Computing to get the AWS Certified Cloud Practitio
 ## Blog
 
 - [**Debugging a React Native Component Layering Bug**](https://xpham.vercel.app/blog/react-native-component-layering-bug): UI layering bug
-- [**Hoppscotch Versioned Entities**](https://xpham.vercel.app/blog/hoppscotch): Implementing versioned entities for settings and history modules in Hoppscotch
-- [**Troubleshooting CI/CD Test Failures in GitHub Actions YAML for Couchbase Flask Starter**](https://xpham.vercel.app/blog/couchbase-flask-starter): Setting up the environment variables and troubleshooting CI/CD
+- [**TensorZero: issue #1839**](https://www.linkedin.com/pulse/open-source-experience-tensorzero-issue1839-xuan-hien-pham-cniie/): Investigated implementing streaming support for TensorZero's feature in Rust
+- [**Hoppscotch Versioned Entities**](https://xpham.vercel.app/blog/hoppscotch): Implemented versioned entities for settings and history modules in Hoppscotch
+- [**Troubleshooting CI/CD Test Failures in GitHub Actions YAML for Couchbase Flask Starter**](https://xpham.vercel.app/blog/couchbase-flask-starter): Set up the environment variables and troubleshooting CI/CD
 
 ## Skills
 
